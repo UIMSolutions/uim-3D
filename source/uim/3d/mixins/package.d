@@ -1,1 +1,1 @@
-module uim.3d.mixins;
+module uim.threed.mixins;

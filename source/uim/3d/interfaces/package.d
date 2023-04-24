@@ -1,1 +1,1 @@
-module uim.3d.interfaces;
+module uim.threed.interfaces;

@@ -1,7 +1,7 @@
-module uim.3d;
+module uim.threed;
 
 public { // 3d packages
-    import uim.3d.classes;
-    import uim.3d.interfaces;
-    import uim.3d.mixins;
+    import uim.threed.classes;
+    import uim.threed.interfaces;
+    import uim.threed.mixins;
 }

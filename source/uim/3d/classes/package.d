@@ -1,1 +1,1 @@
-module uim.3d.classes;
+module uim.threed.classes;
